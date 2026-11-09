@@ -1,0 +1,15 @@
+{
+  "node": ">=22.20.0",
+  "next": "16.2.6",
+  "react": "19.2.6",
+  "drizzle-orm": "0.45.2",
+  "postgres": "15",
+  "npm": ">=10.8.0",
+  "drizzle-kit": "0.31.10",
+  "typescript": "5.9.3",
+  "decimal.js": "10.6.x",
+  "zod": "4.6.x",
+  "postgres_driver": "pg 8.20.0",
+  "lockfile": "not present in source archive; npm install must generate and commit package-lock.json after dependency resolution",
+  "note": "Version pins describe package.json source state, not proof that remote registry installation or production build succeeded."
+}
